@@ -1,0 +1,11 @@
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Data\bin\Debug\net8.0\SolutionsTech.Data.deps.json
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Data\bin\Debug\net8.0\SolutionsTech.Data.dll
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Data\bin\Debug\net8.0\SolutionsTech.Data.pdb
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Data\obj\Debug\net8.0\SolutionsTech.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Data\obj\Debug\net8.0\SolutionsTech.Data.AssemblyInfoInputs.cache
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Data\obj\Debug\net8.0\SolutionsTech.Data.AssemblyInfo.cs
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Data\obj\Debug\net8.0\SolutionsTech.Data.csproj.CoreCompileInputs.cache
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Data\obj\Debug\net8.0\SolutionsTech.Data.dll
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Data\obj\Debug\net8.0\refint\SolutionsTech.Data.dll
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Data\obj\Debug\net8.0\SolutionsTech.Data.pdb
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Data\obj\Debug\net8.0\ref\SolutionsTech.Data.dll
