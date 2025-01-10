@@ -1,0 +1,12 @@
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Business\bin\Debug\net8.0\SolutionsTech.Business.deps.json
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Business\bin\Debug\net8.0\SolutionsTech.Business.dll
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Business\bin\Debug\net8.0\SolutionsTech.Business.pdb
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Business\obj\Debug\net8.0\SolutionsTech.Business.csproj.AssemblyReference.cache
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Business\obj\Debug\net8.0\SolutionsTech.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Business\obj\Debug\net8.0\SolutionsTech.Business.AssemblyInfoInputs.cache
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Business\obj\Debug\net8.0\SolutionsTech.Business.AssemblyInfo.cs
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Business\obj\Debug\net8.0\SolutionsTech.Business.csproj.CoreCompileInputs.cache
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Business\obj\Debug\net8.0\SolutionsTech.Business.dll
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Business\obj\Debug\net8.0\refint\SolutionsTech.Business.dll
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Business\obj\Debug\net8.0\SolutionsTech.Business.pdb
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.Business\obj\Debug\net8.0\ref\SolutionsTech.Business.dll

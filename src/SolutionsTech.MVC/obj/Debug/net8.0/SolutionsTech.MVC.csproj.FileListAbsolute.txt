@@ -1,0 +1,9 @@
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.MVC\obj\Debug\net8.0\SolutionsTech.MVC.csproj.AssemblyReference.cache
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.MVC\obj\Debug\net8.0\SolutionsTech.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.MVC\obj\Debug\net8.0\SolutionsTech.MVC.AssemblyInfoInputs.cache
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.MVC\obj\Debug\net8.0\SolutionsTech.MVC.AssemblyInfo.cs
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.MVC\obj\Debug\net8.0\SolutionsTech.MVC.csproj.CoreCompileInputs.cache
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.MVC\obj\Debug\net8.0\SolutionsTech.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.MVC\obj\Debug\net8.0\SolutionsTech.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.MVC\obj\Debug\net8.0\SolutionsTech.MVC.RazorAssemblyInfo.cache
+C:\Estudos\Projetos\SolutionsTech\src\SolutionsTech.MVC\obj\Debug\net8.0\SolutionsTech.MVC.RazorAssemblyInfo.cs
